@@ -1,0 +1,21 @@
+﻿  gosper.cpp
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(8,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(9,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(10,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(24,27): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(24,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(24,15): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(24,7): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(31,23): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(31,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(31,13): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(31,7): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(20,28): warning C4101: y3: неиспользованная локальная переменная
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(20,16): warning C4101: x3: неиспользованная локальная переменная
+C:\Users\User\Desktop\gosper\gosper\gosper.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+gosper.obj : error LNK2019: ссылка на неразрешенный внешний символ line в функции "void __cdecl gosper(float,float,float,float)" (?gosper@@YAXMMMM@Z).
+gosper.obj : error LNK2019: ссылка на неразрешенный внешний символ setcolor в функции main.
+gosper.obj : error LNK2019: ссылка на неразрешенный внешний символ closegraph в функции main.
+gosper.obj : error LNK2019: ссылка на неразрешенный внешний символ initwindow в функции main.
+graphics.lib : warning LNK4272: тип компьютера библиотеки "x86" конфликтует с типом целевого компьютера "x64"
+C:\Users\User\Desktop\gosper\x64\Debug\gosper.exe : fatal error LNK1120: неразрешенных внешних элементов: 4

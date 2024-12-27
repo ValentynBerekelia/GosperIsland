@@ -1,0 +1,24 @@
+﻿  gosper.cpp
+D:\C++\MyProject\gosper\gosper\gosper.cpp(8,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C++\MyProject\gosper\gosper\gosper.cpp(9,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\C++\MyProject\gosper\gosper\gosper.cpp(10,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(13,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(13,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(13,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(13,8): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(24,28): warning C4101: 'y3': unreferenced local variable
+D:\C++\MyProject\gosper\gosper\gosper.cpp(24,16): warning C4101: 'x3': unreferenced local variable
+D:\C++\MyProject\gosper\gosper\gosper.cpp(42,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(49,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(49,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(49,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(49,9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(52,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(52,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(52,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(52,9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(54,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(54,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(54,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\C++\MyProject\gosper\gosper\gosper.cpp(54,9): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  gosper.vcxproj -> D:\C++\MyProject\gosper\Debug\gosper.exe
